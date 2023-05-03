@@ -6,8 +6,8 @@ This repository contains a train gate detection algorithm that uses OpenAI's YOL
 
 The repository consists of two main files:
 
-1. `ROI_Select.py`: A utility file for selecting Regions of Interest (ROIs) in the video. ![ROI Example](ROI.PNG)
-2. `ROI_DetectGate_v2.py`: The main file containing the implementation of the train gate detection algorithm. ![Detect Example](Detect.PNG)
+1. `ROI_Select.py`: A utility file for selecting Regions of Interest (ROIs) in the video. ![ROI Example](ROI.png)
+2. `ROI_DetectGate_v2.py`: The main file containing the implementation of the train gate detection algorithm. ![Detect Example](Detect.png)
 
 ## Algorithm
 
